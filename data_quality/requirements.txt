@@ -1,0 +1,10 @@
+boto3
+awscli
+numpy
+matplotlib
+sagemaker
+scipy
+tqdm
+pandas
+tensorflow-io
+s3fs

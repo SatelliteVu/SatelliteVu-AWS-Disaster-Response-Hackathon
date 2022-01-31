@@ -1,0 +1,7 @@
+pandas
+tqdm
+matplotlib
+s3fs
+jupyterlab
+sklearn
+yellowbrick
